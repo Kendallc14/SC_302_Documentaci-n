@@ -1,2 +1,2 @@
-("Hola mundo_editado")
+alert("Hola mundo_editado");
 Prueba
